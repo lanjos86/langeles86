@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\jardim.jpg",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\jardim.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\counter_bg.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\counter_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\talho.jpg",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\talho.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remove_area.png",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\remove_area.png"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrumacao.jpg",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\arrumacao.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\papelaria.jpg",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\papelaria.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\wc.jpg",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\wc.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bebe.jpg",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\bebe.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bebidas.png",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\bebidas.png"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cozinha.png",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\cozinha.png"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrollbar.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\scrollbar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\electrodomesticos.jpg",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\electrodomesticos.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\charcutaria.jpg",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\charcutaria.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mercearias.JPG",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\mercearias.JPG"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_background.png",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\list_background.png"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\legumes.jpg",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\legumes.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.2\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\welcome_text_img.png",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\welcome_text_img.png"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fruta.jpg",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\fruta.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\enlatados.jpg",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\enlatados.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\watermelon.png",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\watermelon.png"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_pressed.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\new__groceries_list.png",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\new__groceries_list.png"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\congelados.jpg",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\congelados.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\casa.png",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\casa.png"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\peixaria.jpg",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\peixaria.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_item.png",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\add_item.png"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add_area.png",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\add_area.png"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\farmacia.png",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\farmacia.png"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\higiene.jpg",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\higiene.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_normal.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\list_item_bg_normal.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_background.png",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\main_background.png"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Grosseries\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_img.png",
+        "source": "D:\\Projects\\Grosseries\\app\\src\\main\\res\\drawable\\list_selector_img.png"
+    }
+]

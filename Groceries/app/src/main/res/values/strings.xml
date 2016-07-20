@@ -1,0 +1,489 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string name="lista_compras">Lista de compras</string>
+    <string-array name="nav_drawer_items">
+        <item>Home</item>
+        <item>Nova Lista</item>
+        <item>Inserir Produto</item>
+    </string-array>
+
+    <string-array name="nav_drawer_imgs">
+        <item>@drawable/home</item>
+        <item>@drawable/new__groceries_list</item>
+        <item>@drawable/add_item</item>
+    </string-array>
+
+    <string-array name="nav_drawer_activities">
+        <item>com.example.luis.grosseries.activity.MainActivity</item>
+        <item>com.example.luis.grosseries.activity.NewGroceriesListActivity</item>
+        <item>com.example.luis.grosseries.activity.NewItemToGroceriesListsActivity</item>
+    </string-array>
+
+    <string-array name="areas_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electrodomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+
+    <string-array name="areas_spinner_img">
+        <item>@drawable/farmacia</item>
+        <item>@drawable/higiene</item>
+        <item>@drawable/casa</item>
+        <item>@drawable/jardim</item>
+        <item>@drawable/electrodomesticos</item>
+        <item>@drawable/papelaria</item>
+        <item>@drawable/cozinha</item>
+        <item>@drawable/wc</item>
+        <item>@drawable/legumes</item>
+        <item>@drawable/fruta</item>
+        <item>@drawable/charcutaria</item>
+        <item>@drawable/talho</item>
+        <item>@drawable/mercearias</item>
+        <item>@drawable/peixaria</item>
+        <item>@drawable/bebidas</item>
+        <item>@drawable/enlatados</item>
+        <item>@drawable/congelados</item>
+        <item>@drawable/bebe</item>
+        <item>@drawable/arrumacao</item>
+    </string-array>
+
+    <string-array name="farmacia_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electródomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+
+    <string-array name="higiene_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electródomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+
+    <string-array name="casa_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electródomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+
+    <string-array name="jardim_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electródomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+
+    <string-array name="electrodomesticos_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electródomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+
+    <string-array name="papelaria_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electródomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+
+
+    <string-array name="cozinha_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electródomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+
+    <string-array name="wc_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electródomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+
+    <string-array name="legumes_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electródomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+
+    <string-array name="fruta_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electródomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+
+    <string-array name="charcutaria_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electródomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+
+    <string-array name="talho_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electródomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+
+    <string-array name="mercearias_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electródomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+
+    <string-array name="peixaria_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electródomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+
+    <string-array name="bebidas_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electródomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+
+
+    <string-array name="enalatados_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electródomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+
+    <string-array name="congelados_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electródomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+
+    <string-array name="bebe_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electródomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+
+    <string-array name="arrumacao_spinner_content">
+        <item>Farmácia</item>
+        <item>Higiene</item>
+        <item>Casa</item>
+        <item>Jardim</item>
+        <item>Electródomésticos</item>
+        <item>Papelaria</item>
+        <item>Cozinha</item>
+        <item>WC</item>
+        <item>Legumes</item>
+        <item>Fruta</item>
+        <item>Charcutaria</item>
+        <item>Talho</item>
+        <item>Mercearias</item>
+        <item>Peixaria</item>
+        <item>Bebidas</item>
+        <item>Enlatados</item>
+        <item>Congelados</item>
+        <item>Bebe / Criança</item>
+        <item>Arrumação</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="addAreaLabel">Adicionar Categoria</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_application_base">ApplicationBaseActivity</string>
+</resources>
